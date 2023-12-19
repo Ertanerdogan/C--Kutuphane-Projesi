@@ -1,0 +1,6 @@
+0001 Hayvan_Mezarlığı Stephen King 450
+0002 Satranç Albert Camus 351
+0003 O Stephen King 1120
+0004 Hayvan_Çiftliği George Orwell 365
+0005 1987 George Orwell 520
+0008 Satranç Stephan Zweig 500
